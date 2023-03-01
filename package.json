@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@gathertown/gather-game-client": "^38.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "isomorphic-ws": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
